@@ -13,6 +13,10 @@ CapDock is a lightweight capsule-style dock that sits on your desktop. It does n
 - Flexible settings: size, colours, shortcut folder, animations, and more.
 - Multiple profiles: each profile is a separate dock with its own settings and folder.
 
+## AI assistance
+
+This project was created with assistance from AI tools. The author reviewed, edited, and tested the code, but large parts of the implementation were generated with AI help. The project is provided as-is under the license below.
+
 ## Requirements
 
 - Windows 10 version 2004 or newer (for live background features).
